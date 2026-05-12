@@ -1,4 +1,6 @@
-# 🤗🌿 Welcome to the fluffiness! 🌿🤗
+<img width="2000" height="556" alt="github-banner" src="https://github.com/user-attachments/assets/3545b536-c313-4488-a960-b1a7bf7d3b27" />
+
+# 🤗🌿 Welcome to my digital garden! 🌿🤗
 
 Hi, I'm Philine 🌷
 Welcome to my little digital garden. Take a moment, look around, and stay as long as you like ☁️
@@ -20,20 +22,4 @@ Welcome to my little digital garden. Take a moment, look around, and stay as lon
 - 🐍 Python
 - ☕ Coffee-powered debugging
 
-
-```mermaid
-flowchart LR
-    A[New idea] --> B{Is it fluffy?}
-
-    B -- Yes --> C[Implement immediately 💻]
-
-    B -- No --> D[Add blanket]
-    D --> E{fluffy now?}
-
-    E -- Yes --> C
-    E -- No --> F[Question life choices 🌿]
-    F --> A
-
-classDef blob stroke:#ba81d3,color:#ba81d3;
-class A,B,C,D,E,F blob;
-```
+### Enjoy :D
